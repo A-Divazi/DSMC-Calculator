@@ -6,6 +6,12 @@ A graphical engineering calculator for the **preliminary design and numerical se
 
 It bridges the **macroscopic** flow conditions (pressure, temperature, velocity, Mach/Re) with the **molecular and numerical** scales required to build a DSMC case (mean free path, cell size, time step, particle statistical weight). It is a *setup / pre-simulation aid* — it suggests consistent DSMC grid and time parameters, it does not run the DSMC simulation itself.
 
+> **License:** MIT (see [`LICENSE`](LICENSE)).
+> **If you use this in research, please cite it** (a `CITATION.cff` is included,
+> so GitHub shows a "Cite this repository" button):
+> > A. Divazi, *DSMC-Calculator: a graphical calculator for DSMC and rarefied
+> > gas dynamics*, 2026. https://github.com/A-Divazi/DSMC-Calculator
+
 ## Features
 
 **Thermodynamics**
